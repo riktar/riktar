@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center">  
+[![MasterHead](https://github.com/riktar/riktar/blob/master/banner.png)](https://github.com/riktar)
 
-## **Hi there 👋 I'm Riccardo Tartaglia (@riktar)**
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/riktarweb)
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/ricctar)
