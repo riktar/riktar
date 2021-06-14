@@ -8,7 +8,7 @@
 
 </div>
 
-## I'm a Fullstack Developer & Analyst @Webeetle  👨‍💻 
+## I'm a Fullstack Developer & Analyst @ Webeetle  👨‍💻 
 I help professionals and companies to understand the mechanisms of digitization 📈
 
 ### What are I'm doing now
