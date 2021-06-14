@@ -1,5 +1,5 @@
 <div align="center">  
-[![MasterHead](https://github.com/riktar/riktar/blob/master/banner.png)](https://github.com/riktar)
+  <a href='https://github.com/riktar'><img src='https://github.com/riktar/riktar/blob/master/banner.png' /></a>
 
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/riktarweb)
