@@ -11,6 +11,8 @@
 ## I'm a Fullstack Developer & Analyst @ Webeetle  👨‍💻 
 I help professionals and companies to understand the mechanisms of digitization 📈
 
-### What are I'm doing now
-- 🌱 I’m currently learning: **Svelte**
-- 📫 How to reach me: **tartaglia.riccardo@gmail.com**
+### 🌱 What are I'm doing now
+- I’m currently learning: **Svelte**
+
+### 📫 How to reach me
+You can write me at: **tartaglia.riccardo@gmail.com**
