@@ -12,7 +12,8 @@
 I help professionals and companies to understand the mechanisms of digitization 📈
 
 ### 🌱 What are I'm doing now
-- I’m working on [**Artiforge**](https://artiforge.ai)
+- Founder of [**Artiforge**](https://artiforge.ai)
+- Creator of [**Rikta**](https://rikta.dev)
 - I'm learning **Context-Aware Programming**
 
 ### 📫 How to reach me
