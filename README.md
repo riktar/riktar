@@ -34,11 +34,11 @@ I like connecting dots — I help professionals and companies understand the mec
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nextjs,nuxtjs,html,css,tailwind,sass" alt="Frontend & JS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nextjs,nuxtjs,html,css,tailwind,sass" alt="JavaScript, TypeScript, Node.js, React, Vue, Next.js, Nuxt.js, HTML, CSS, Tailwind, Sass" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,go,mysql,postgres,mongodb,redis,docker,kubernetes,aws" alt="Backend & DevOps" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,go,mysql,postgres,mongodb,redis,docker,kubernetes,aws" alt="PHP, Laravel, Python, Go, MySQL, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nginx,firebase,supabase,vercel,cloudflare" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nginx,firebase,supabase,vercel,cloudflare" alt="Git, GitHub, VS Code, Figma, Linux, Nginx, Firebase, Supabase, Vercel, Cloudflare" />
 
 </div>
 
